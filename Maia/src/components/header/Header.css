@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(37, 145, 179);
+}
+.contenedor{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.menu{
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1100;
+}
+.menu .logo{
+    font-weight: 700;
+    font-size: 25px;
+    color: #ffffff;
+}
+.menu .nav ul li{
+    position: relative;
+    float: left;
+}
+.menu .nav ul li a{
+    font-size: 18px;
+    padding: 13px;
+    color: #ffffff;
+    display: block;
+}
+.menu .nav ul li a:hover{
+    background: radial-gradient(rgb(95, 190, 235), rgb(151, 210, 238));
+}
+#menu{
+    display: none;
+}
+.menu-icono{
+    width: 25px;
+}
+.menu label{
+    cursor: pointer;
+    display: none;
+}

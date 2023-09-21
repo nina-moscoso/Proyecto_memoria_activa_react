@@ -1,0 +1,25 @@
+.contenido{
+    height: 20vh;
+    width: 100%;
+    background-color: rgb(37, 145, 179);
+    display: flex;
+    justify-content: center;
+}
+.redes{
+    background-color:  rgb(37, 145, 179);
+    z-index: 7;
+}
+.social{
+    height:3vh;
+    margin: 8px;
+}
+.lineas{
+    width: 80%;
+    height: 2px; 
+    background-color: black;
+    border: none;
+    position: absolute;
+    margin-top: 20px;
+}
+
+
