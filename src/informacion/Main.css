@@ -1,0 +1,79 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.menu-icono {
+    width: 100px;
+    height: 90px;
+    margin: 20PX;
+}
+
+article{
+    padding: 12px;
+    margin: 12px;
+}
+
+h2{
+    text-align: center;
+
+}
+
+.general {
+    display: flex;
+    height: 55vh;
+
+}
+
+.general-1 {
+    width: 44.4%;
+    padding: 80px 50px 100px 100px;
+    background-color: #E1E2E6;
+}
+p{
+    font-size: 20px;
+}
+
+.general-2 {
+    background-image: url(imagenes/quees11.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+
+.general-3 {
+    background-image: url(imagenes/memoria.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 59%;
+    border-radius: 10px solid red;
+  
+}
+
+.general-4 {
+    width: 54%;
+    padding: 80px 50px 100px 100px;
+    background-color: #E1E2E6;
+  
+}
+
+.general-5 {
+    background-image: url(imagenes/memoria3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 58.5%;
+}
+
+.general-6 {
+    background-image: url(imagenes/tratamiento.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70.5%;
+}
+
