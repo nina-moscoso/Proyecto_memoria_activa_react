@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+  
+header {
+    background-color: rgba(0, 94, 225, 0.849);
+    height: 7vh;
+
+}
+.contenido-actividades {
+    width: 100%;
+    height: 86vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+  
+.cuadro {
+    width: 32%;
+    height:70vh;
+    border: 1px solid rgb(7, 7, 7);
+    background-color: rgba(104, 163, 240);
+    box-shadow: 1px 1px 1px 1px black;
+    text-align: center;
+  
+}
+h1 {
+    margin-top: 20px;
+}
+p {
+    margin-top: 10px;
+}
+.imagenes-1 {
+    height: 30vh;
+    width: 100%;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ 
+}
+.imagenes-1-mentales {
+    height: 23vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.img-contenido{
+    
+    height: 20vh;
+    width: 30%;
+    border-radius: 10px;
+    background-color: rgba(63, 82, 201, 0.505);
+}
+.img-contenido-1{
+    height: 20vh;
+    width: 33%;
+    border-radius: 10px;
+    background-color: rgba(63, 82, 201, 0.505);
+}
+
+.titulo {
+    margin-top: 0;
+}
+.padre-img {
+    height: 86%;
+  
+}
+.img {
+    width: 100%;
+    height: 100%;
+    border-radius: 0 0 10px 10px;
+}
+
+footer {
+    background-color: rgba(0, 94, 225, 0.849);
+    height: 7vh;
+}
+  
+  
