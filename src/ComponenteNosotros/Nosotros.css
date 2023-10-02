@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    height: 20vh;
+    background-color: cadetblue;
+}
+main
+{
+    background:linear-gradient(#defdfd,#b9e6fd,#f7f5f5);
+    background-attachment: fixed;
+    margin-top: 5px;
+}
+footer
+{
+    height: 20vh;
+    background-color: blanchedalmond;
+}
+aside{
+    display: flex;
+}
+.ima-nosotros
+{
+    width: 50%;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.imagen1
+{
+    width: 100%;
+    height: 92%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 0px grey;
+}
+.texto
+{
+    background: linear-gradient(#86e9f2,#c4f6f9,#8DA6A8);
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 70%;
+    width: 50%;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 0px grey;   
+}
+.imagen2
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 0px grey;
+}
+.tex3
+{
+    font-size: 25px;
+    text-align: justify;
+    padding: 40px;
+}
+.tit3
+{
+    font-size: 30px;
+    text-align: center;
+    padding: 27px;
+}
+.titulo
+{
+    font-size:30px;
+    padding: 13px;
+    text-align: center;
+}
+.texto1
+{
+    font-size: 25px;
+    text-align: justify;
+    padding: 25px;
+}
+
+.final
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+ul{
+    font-size: 25px;
+    padding: 20px;
+}
